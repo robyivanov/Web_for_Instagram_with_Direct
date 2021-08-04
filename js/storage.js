@@ -1,0 +1,1 @@
+const STORAGE={darkTheme:!1,zoomMode:!1,imgFormat:"jpeg",showCase:"right",isPinned:!1,rate:{},config:[]};
